@@ -1,0 +1,19 @@
+{
+  "name": "electron-boilerplate",
+  "version": "1.0.0",
+  "description": "The Electron boilerplate I use for all of my NodeJS/Electron projects.",
+  "main": "app.js",
+  "scripts": {
+    "test": "electron app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/zacharyjbaldwin/electron-boilerplate.git"
+  },
+  "keywords": [
+    "electron",
+    "boilerplate"
+  ],
+  "author": "Zachary J. Baldwin <zacharyjbaldwin@gmail.com> (https://www.github.com/zacharyjbaldwin)",
+  "license": "MIT"
+}
