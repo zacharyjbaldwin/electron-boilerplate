@@ -15,5 +15,8 @@
     "boilerplate"
   ],
   "author": "Zachary J. Baldwin <zacharyjbaldwin@gmail.com> (https://www.github.com/zacharyjbaldwin)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.6.2"
+  }
 }
