@@ -17,6 +17,9 @@
   "author": "Zachary J. Baldwin <zacharyjbaldwin@gmail.com> (https://www.github.com/zacharyjbaldwin)",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.6.2"
+    "electron": "^1.6.2",
+    "jquery": "^3.2.1",
+    "minireset.css": "0.0.2",
+    "thorbie.css": "^1.0.0"
   }
 }
