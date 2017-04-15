@@ -1,6 +1,6 @@
 {
   "name": "electron-boilerplate",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "The Electron boilerplate I use for all of my NodeJS/Electron projects.",
   "main": "app.js",
   "scripts": {
@@ -18,8 +18,10 @@
   "license": "MIT",
   "dependencies": {
     "electron": "^1.6.2",
-    "jquery": "^3.2.1",
-    "minireset.css": "0.0.2",
-    "thorbie.css": "^1.0.0"
+    "jquery": "^3.2.1"
+  },
+  "readme": "'electron-boilerplate' is the boilerplate that I used for all of my NodeJS/Electron projects.",
+  "devDependencies": {
+    "editorconfig": "^0.13.2"
   }
 }
